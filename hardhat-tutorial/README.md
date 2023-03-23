@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# NFT-Collection using Hardhat
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is an NFT Collection where users can mint unique Crypto Dev NFTs, with a total of only 20 existing. Users can mint only one NFT with one transaction, and whitelisted users have a presale period of 5 minutes before actual sale.
 
 Try running some of the following tasks:
 
